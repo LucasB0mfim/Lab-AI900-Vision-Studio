@@ -25,7 +25,7 @@ Faça o login com **sua conta Microsoft Azure** e siga os seguintes passos:
 
 # Conceito
 
-Os serviços de visão computacional do Azure oferecem acesso a tecnologias avançadas de aprendizado de máquina, facilitando a implementação de recursos de análise de imagem em aplicativos existentes. `Esses serviços permitem lidar com grandes volumes de dados e demanda de processamento`, integrando-se facilmente com outros serviços Azure. Além disso, o amplo suporte técnico e a documentação detalhada tornam o **desenvolvimento e a resolução de problemas mais acessíveis para os usuários.**
+Os serviços de visão computacional do Azure oferecem acesso a tecnologias avançadas de aprendizado de máquina, facilitando a implementação de recursos de análise de imagem em aplicativos existentes. Esses serviços permitem lidar com grandes volumes de dados e demanda de processamento, além disso, o amplo suporte técnico e a documentação detalhada tornam o **desenvolvimento e a resolução de problemas mais acessíveis para os usuários.**
 
 # Insights e Possibilidades
 
