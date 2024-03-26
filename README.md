@@ -2,7 +2,7 @@
 
 - Crie um **`novo recurso`**
 - Em **Categorias** no menu esquerdo, selecione **`AI + Machine Learning`**
-- Busque pelo modelo de **`Azure AI services`** e o inicie
+- Busque pelo recurso de **`Azure AI services`** e o inicie
 - Preenha os campos conforme os exemplos abaixo:
 
 <img src="./images/1.png">
@@ -14,7 +14,7 @@ Entre o site [Vision Cogniteve](https://portal.vision.cognitive.azure.com/) da A
 Faça o login com **sua conta Microsoft Azure** e siga os seguintes passos:
 
 - Clique em **`view all resources`**
-- Selecione o seu modelo criado na Azure como **`padrão`**
+- Selecione o seu recurso criado na Azure como **`padrão`**
 
 <img src="./images/2.png">
 <img src="./images/3.png">
