@@ -65,3 +65,7 @@ Os serviços de visão computacional do Azure oferecem acesso a tecnologias avan
 > A visão computacional pode ser usada para monitorar e proteger o meio ambiente. Por exemplo, detectar desmatamento ilegal e monitorar a biodiversidade em ecossistemas sensíveis.
 
 - [**Inteligência artificial e sustentabilidade**](https://www.ecycle.com.br/inteligencia-artificial/)
+
+#
+
+### **Vale lembrar de que isso é um laboratório de estudos, caso também pretenda realizar esse lab, não se esqueça de excluir TUDO assim que terminar para não ser cobrado posteriormente!!**
